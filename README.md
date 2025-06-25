@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @RahatInCode
-- 👀 I’m interested in making responsive websites
-- 🌱 I’m currently learning Html,css,javascript
-- 💞️ I’m Anticipating a fruitful collaboration
-- 📫 How to reach me ahmedrahat9901@gmail.com
+### 👨‍💻 About Me
+I'm a MERN Stack web developer with a passion for building interactive websites.  
+Currently studying BBA in Management from National University Bangladesh.
+
+- 🔭 Exploring Next.js and SSR
+- 🌐 Building a tourism website project
+- 📚 Always learning new JavaScript tricks
+
 
 <!---
 RahatInCode/RahatInCode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

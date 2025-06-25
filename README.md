@@ -27,7 +27,7 @@ Currently studying BBA in Management from National University Bangladesh.
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ahmedrahat&theme=dark&hide_border=false)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedrahat&layout=compact&theme=dark&hide_border=false)
-![Visitor Count](https://visitcount.itsvg.in/api?id=ahmedrahat&icon=0&color=0)
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

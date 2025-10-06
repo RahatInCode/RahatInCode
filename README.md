@@ -49,14 +49,11 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=RahatInCode&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=RahatInCode&theme=tokyonight&hide_border=true" />
+# 📊 GitHub Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RahatInCode&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
-<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahatInCode&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RahatInCode&theme=dark&hide_border=false)
 
-</div>
 
 ---
 

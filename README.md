@@ -52,6 +52,8 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RahatInCode&theme=dark&hide_border=false)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RahatInCode&layout=compact&theme=dark&hide_border=false)
+
 
 ---
 

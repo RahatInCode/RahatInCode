@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Ahmed Rahat 👋
 
 <div align="center">
   
@@ -13,8 +13,8 @@
 - 🔭 I'm currently working on **cutting-edge web applications**
 - 🌱 I'm currently learning **AI/ML and Cloud Architecture**
 - 👯 I'm looking to collaborate on **open source projects**
-- 💬 Ask me about **JavaScript, React, Node.js, and DevOps**
-- 📫 How to reach me: **your.email@example.com**
+- 💬 Ask me about **JavaScript, React, Node.js, and Next.js**
+- 📫 How to reach me: **ahmedrahat.dev@gmail.com**
 - ⚡ Fun fact: **I debug in my dreams**
 
 <br clear="right"/>
@@ -97,7 +97,7 @@ const currentFocus = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][(https://linkedin.com/in/yourusername)](https://www.linkedin.com/in/ahmed-rahat-5a6145387/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)

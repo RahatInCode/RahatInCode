@@ -11,7 +11,7 @@
 ### 🚀 About Me
 
 - 🔭 I'm currently working on **cutting-edge web applications**
-- 🌱 I'm currently learning **AI/ML and Cloud Architecture**
+- 🌱 I'm currently learning **AI/ML and Fullstack Web Development**
 - 👯 I'm looking to collaborate on **open source projects**
 - 💬 Ask me about **JavaScript, React, Node.js, and Next.js**
 - 📫 How to reach me: **ahmedrahat.dev@gmail.com**
